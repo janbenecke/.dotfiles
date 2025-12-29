@@ -1,5 +1,4 @@
 :syntax on
-:colorscheme delek
 :set number
 :set showmatch
 :set showmode
