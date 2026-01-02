@@ -4,6 +4,7 @@ PS1='~ '
 # Aliases
 alias ls='ls -lh --color=auto'
 alias ll='ls -alh --color=auto'
+alias u='ufw status numbered'
 
 
 # Colours
